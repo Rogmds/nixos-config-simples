@@ -228,7 +228,7 @@
     ffmpeg
     vlc
     handbrake
-    shotcut
+    kdePackages.kdenlive
 
     # Escritório
     libreoffice
